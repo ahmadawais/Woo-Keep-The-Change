@@ -31,8 +31,7 @@ if ( ! in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins',
 	    require_once( WKTC_DIR . '/assets/tgmpa/wktc-tgmpa.php' );
 	}
 
-
-	return;
+	return; // return since there is no need for the class to be included.
 
 }
 
