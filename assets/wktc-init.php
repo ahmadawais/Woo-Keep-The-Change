@@ -13,6 +13,15 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
+/**
+ * Require TGMPA.
+ *
+ * @since 1.0.0
+ */
+if ( file_exists( WKTC . '/assets/tgmpa/wktc-tgmpa.php' ) ) {
+    require_once( WKTC . '/assets/tgmpa/wktc-tgmpa.php' );
+}
+
 
 /**
  * If no WooCommerce then add a notice and exit.
@@ -20,18 +29,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * @since  1.0.0
  */
 if ( ! in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', get_option( 'active_plugins' ) ) ) ) {
-
-	/**
-	 * Require TGMPA.
-	 *
-	 * @since 1.0.0
-	 */
-	if ( file_exists( WKTC . '/assets/tgmpa/wktc-tgmpa.php' ) ) {
-	    require_once( WKTC . '/assets/tgmpa/wktc-tgmpa.php' );
-	}
-
 	return;
-
 }
 
 
