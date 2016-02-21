@@ -4,7 +4,7 @@ Donate link: http://AhmadAwais.com/contact/
 Tags: woo, woo keep the change, woo round off, round off, woocommerce, woocommerce add fee
 Requires at least: 4.0.0
 Tested up to: 4.5
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPL v2.0
 
 Woo Keep The Change plugin helps online store owners keep the change :) i.e. Total $50 instead of $49.28.
@@ -42,6 +42,8 @@ No, not really.
 None.
 
 == Changelog ==
+= 1.0.1 =
+* TGMPA Support.
 
 = 1.0 =
 * First Commit.
