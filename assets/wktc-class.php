@@ -39,7 +39,7 @@ class WP_WKTC {
 		$ktc_cart_total  = ceil( $real_cart_total ); // greater 1
 		$ktc_fee         = $ktc_cart_total - $real_cart_total;
 
-		$woocommerce->cart->add_fee( __('Keep the change', 'woocommerce'), $ktc_fee );
+		$woocommerce->cart->add_fee( __( 'Keep the change', 'WKTC' ), $ktc_fee );
 
 	}
 
