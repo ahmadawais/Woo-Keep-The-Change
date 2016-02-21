@@ -13,15 +13,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-/**
- * Require TGMPA.
- *
- * @since 1.0.0
- */
-if ( file_exists( WKTC . '/assets/tgmpa/wktc-tgmpa.php' ) ) {
-    require_once( WKTC . '/assets/tgmpa/wktc-tgmpa.php' );
-}
-
 
 /**
  * If no WooCommerce then add a notice and exit.
@@ -29,7 +20,32 @@ if ( file_exists( WKTC . '/assets/tgmpa/wktc-tgmpa.php' ) ) {
  * @since  1.0.0
  */
 if ( ! in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', get_option( 'active_plugins' ) ) ) ) {
+
+	/**
+	 * Admin Notice to install/activate WooCommerce.
+	 *
+	 * @since 1.0.0
+	 */
+	function wktc_admin_notice_error() {
+		$class   = 'notice notice-error is-dismissible';
+		$message = __( 'Install & Activate WooCommerce before using Woo Keep The Change plugin!', 'sample-text-domain' );
+		printf( '<div class="%1$s"><p>%2$s</p></div>', $class, $message );
+	}
+	add_action( 'admin_notices', 'wktc_admin_notice_error' );
+
+
+	/**
+	 * Require TGMPA.
+	 *
+	 * @since 1.0.0
+	 */
+	if ( file_exists( WKTC_DIR . '/assets/tgmpa/wktc-tgmpa.php' ) ) {
+	    require_once( WKTC_DIR . '/assets/tgmpa/wktc-tgmpa.php' );
+	}
+
+
 	return;
+
 }
 
 
