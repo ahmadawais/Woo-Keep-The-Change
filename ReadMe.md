@@ -20,8 +20,11 @@ Just install and activate the plugin and you in the cart there would be a `Keep 
 1. $58.20 cart has been rounded off to $59. There's a $0.80 keep the change fee :)
 
 #Changelog
-= 1.0 =
-* First Commit.
+= 1.0.1 =
+* TGMPA Support.
+
+= 1.0.0 =
+* First version.
 
 Contributors: mrahmadawais, WPTie
 Donate link: http://AhmadAwais.com/contact/
