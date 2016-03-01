@@ -65,9 +65,6 @@ function wktc_general_options_callback() {
     // echo '<p>Select which areas of content you wish to display.</p>';
 } // end wktc_general_options_callback
 
-/* ------------------------------------------------------------------------ *
- * Field Callbacks
- * ------------------------------------------------------------------------ */
 
 /**
  * This function renders the interface elements for toggling the visibility of the header element.
