@@ -1,12 +1,12 @@
 #Woo Keep The Change
 Woo Keep The Change plugin helps online store owners keep the change :) i.e. Total $50 instead of $49.28.
 
-`Install and activate the plugin. No settings at all.`
+`Install and activate the plugin. Enable on Woo KTC on settings page.`
 
 
 ##Installation
 
-Just install and activate the plugin and you in the cart there would be a `Keep the change` fee that will round off the numbers to the nearest but great value.
+Install and activate the plugin and you will be redirected to the settings page. Check enable the setting to enable the plugin. Once enabled; in the cart there would be a `Keep the change` fee that will round off the numbers to the nearest but great value.
 
 ###Details:
 
@@ -20,6 +20,10 @@ Just install and activate the plugin and you in the cart there would be a `Keep 
 1. $58.20 cart has been rounded off to $59. There's a $0.80 keep the change fee :)
 
 #Changelog
+= 1.0.2 =
+* Welcome page.
+* Setting to enable & disable.
+
 = 1.0.1 =
 * TGMPA Support.
 
