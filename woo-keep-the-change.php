@@ -6,7 +6,7 @@
  * Author: mrahmadawais, WPTie
  * Author URI: http://AhmadAwais.com/
  * Text Domain: WKTC
- * Version: 1.0.1
+ * Version: 1.0.2
  * License: GPL v2+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  *
@@ -45,7 +45,7 @@ if ( ! defined( 'WPINC' ) ) {
 
 // WKTC Version.
 if ( ! defined( 'WKTC_VERSION' ) ) {
-    define( 'WKTC_VERSION', '1.0.0' );
+    define( 'WKTC_VERSION', '1.0.2' );
 }
 
 // WKTC Name.
@@ -62,6 +62,12 @@ if ( ! defined('WKTC_DIR' ) ) {
 if ( ! defined('WKTC_URL' ) ) {
     define( 'WKTC_URL', WP_PLUGIN_URL . '/' . WKTC_NAME );
 }
+
+// Plugin Root File.
+if ( ! defined( 'WKTC_PLUGIN_FILE' ) ) {
+    define( 'WKTC_PLUGIN_FILE', __FILE__ );
+}
+
 
 /**
  * AA Main File

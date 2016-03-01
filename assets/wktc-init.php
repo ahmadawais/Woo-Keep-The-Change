@@ -13,6 +13,16 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
+/**
+ * Welcome And Setting Page.
+ *
+ * @since 1.0.1
+ */
+if ( file_exists( WKTC_DIR . '/assets/admin/welcome/welcome-init.php' ) ) {
+    require_once( WKTC_DIR . '/assets/admin/welcome/welcome-init.php' );
+}
+
+
 
 /**
  * If no WooCommerce then add a notice and exit.
