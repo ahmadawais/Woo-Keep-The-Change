@@ -17,9 +17,7 @@ Install and activate the plugin and you will be redirected to the settings page.
 
 #Screenshot
 
-![](https://i.imgur.com/VeQYlbH.png)
-
-![](https://i.imgur.com/dQi0lXT.png)
+![](https://i.imgur.com/jxptgkb.png)
 1. $58.20 cart has been rounded off to $59. There's a $0.80 keep the change fee :)
 
 #Changelog
