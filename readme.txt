@@ -33,7 +33,6 @@ No, not really.
 
 
 == Screenshots ==
-![](https://i.imgur.com/dQi0lXT.png)
 1. $58.20 cart has been rounded off to $59. There's a $0.80 keep the change fee :)
 
 == Upgrade Notice ==
