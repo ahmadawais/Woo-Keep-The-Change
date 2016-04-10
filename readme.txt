@@ -17,6 +17,7 @@ Woo Keep The Change plugin helps online store owners keep the change :) i.e. Tot
 
 
 == Installation ==
+
 Install and activate the plugin and you will be redirected to the settings page. Check enable the setting to enable the plugin. Once enabled; in the cart there would be a `Keep the change` fee that will round off the numbers to the nearest but great value.
 
 Details:
@@ -33,6 +34,7 @@ No, not really.
 
 
 == Screenshots ==
+
 1. $58.20 cart has been rounded off to $59. There's a $0.80 keep the change fee :)
 
 == Upgrade Notice ==
@@ -40,6 +42,7 @@ No, not really.
 None.
 
 == Changelog ==
+
 = 1.0.2 =
 * Welcome page.
 * Setting to enable & disable.
