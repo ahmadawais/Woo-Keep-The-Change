@@ -7,6 +7,8 @@
 
 [Woo Keep The Change plugin](https://wordpress.org/plugins/woo-keep-the-change/) helps online store owners keep the change :) i.e. Total $50 instead of $49.28.
 
+![Woo Keep The Change](https://i.imgur.com/m862Qr1.jpg)
+
 `Install and activate the plugin. Enable on Woo KTC on settings page.`
 
 
