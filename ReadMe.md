@@ -2,7 +2,7 @@
 
 [![WP](https://img.shields.io/badge/WordPress-%E2%86%92-lightgrey.svg?style=flat-square)](https://wordpress.org/plugins/woo-keep-the-change/)
 [![WP Plugin Version](https://img.shields.io/wordpress/plugin/v/woo-keep-the-change.svg?style=flat-square&label=version)](https://wordpress.org/plugins/woo-keep-the-change/)
-[![WP Downloads](https://img.shields.io/wordpress/plugin/dt/fb-save-button-for-wp.svg?style=flat-square)](https://wordpress.org/plugins/woo-keep-the-change/)
+[![WP Downloads](https://img.shields.io/wordpress/plugin/dt/woo-keep-the-change.svg?style=flat-square)](https://wordpress.org/plugins/woo-keep-the-change/)
 [![WP Rating](https://img.shields.io/wordpress/plugin/r/fb-save-button-for-wp.svg?style=flat-square)](https://wordpress.org/support/view/plugin-reviews/woo-keep-the-change?filter=5)
 
 [Woo Keep The Change plugin](https://wordpress.org/plugins/woo-keep-the-change/) helps online store owners keep the change :) i.e. Total $50 instead of $49.28.
