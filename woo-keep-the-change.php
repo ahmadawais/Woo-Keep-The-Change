@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: Woo Keep The Change
- * Plugin URI: http://AhmadAwais.com/
+ * Plugin URI: https://WPCouple.com/
  * Description: Keep the change fee added in the cart.
- * Author: mrahmadawais, WPTie
- * Author URI: http://AhmadAwais.com/
+ * Author: WPCouple(Ahmad Awais & Maedah Batool)
+ * Author URI: https://AhmadAwais.com/
  * Text Domain: WKTC
  * Version: 1.0.2
  * License: GPL v2+
