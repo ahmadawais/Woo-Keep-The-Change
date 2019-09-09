@@ -4,7 +4,7 @@
  *
  * Class for helping online store owners keep the change.
  *
- * @since 	1.0.0
+ * @since   1.0.0
  * @package WKTC
  */
 
@@ -23,36 +23,35 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 if ( ! class_exists( 'WP_WKTC' ) ) :
 
-class WP_WKTC {
+	class WP_WKTC {
 
-	/**
-	 * WooCommerce Keep The Change
-	 *
-	 * Add custom fee to cart automatically
-	 *
-	 */
-	public function woo_keepthechange() {
+		/**
+		 * WooCommerce Keep The Change
+		 *
+		 * Add custom fee to cart automatically
+		 */
+		public function woo_keepthechange() {
 
-		global $woocommerce;
+			global $woocommerce;
 
-		$real_cart_total = floatval( preg_replace( '#[^\d.]#', '', $woocommerce->cart->get_cart_total() ) );
-		$ktc_cart_total  = ceil( $real_cart_total ); // greater 1
-		$ktc_fee         = $ktc_cart_total - $real_cart_total;
+			$real_cart_total = floatval( preg_replace( '#[^\d.]#', '', $woocommerce->cart->get_cart_total() ) );
+			$ktc_cart_total  = ceil( $real_cart_total ); // greater 1
+			$ktc_fee         = $ktc_cart_total - $real_cart_total;
 
-		// Options API
-		$options = get_option('wktc_welcome');
+			// Options API
+			$options = get_option( 'wktc_welcome' );
 
-		// If enabled then 1 else 0
-		$should_woo_ktc = isset( $options[ 'is_woo_ktc' ] ) ? 1 : 0;
+			// If enabled then 1 else 0
+			$should_woo_ktc = isset( $options['is_woo_ktc'] ) ? 1 : 0;
 
-		if ( $should_woo_ktc ) {
+			if ( $should_woo_ktc ) {
 
-			$woocommerce->cart->add_fee( __( 'Keep the change', 'WKTC' ), $ktc_fee );
+				$woocommerce->cart->add_fee( __( 'Keep the change', 'WKTC' ), $ktc_fee );
+
+			}
 
 		}
 
 	}
-
-}
 
 endif;
