@@ -1,9 +1,9 @@
 === Woo Keep The Change ===
-Contributors: mrahmadawais, ahmadbilaldev, maedahbatool, WPTie
+Contributors: mrahmadawais, maedahbatool, ahmadbilaldev, WPTie
 Donate link: http://AhmadAwais.com/contact/
 Tags: woo, woo keep the change, woo round off, round off, woocommerce, woocommerce add fee
 Requires at least: 4.0.0
-Tested up to: 5.0
+Tested up to: 6.0
 Stable tag: 1.1.0
 License: GPL v2.0
 
