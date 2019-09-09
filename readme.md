@@ -5,11 +5,11 @@
 [![WP Downloads](https://img.shields.io/wordpress/plugin/dt/woo-keep-the-change.svg?style=flat-square)](https://wordpress.org/plugins/woo-keep-the-change/)
 [![WP Rating](https://img.shields.io/wordpress/plugin/r/fb-save-button-for-wp.svg?style=flat-square)](https://wordpress.org/support/view/plugin-reviews/woo-keep-the-change?filter=5)
 
-[Woo Keep The Change plugin](https://wordpress.org/plugins/woo-keep-the-change/) helps online store owners keep the change :) i.e. Total $50 instead of $49.18.
+[Woo Keep The Change plugin](https://wordpress.org/plugins/woo-keep-the-change/) helps online store owners keep the change :) i.e. Total $50 instead of $49.28.
 
 ![Woo — Keep The Change](https://i.imgur.com/m862Qr1.jpg)
 
-`Install and activate the plugin. Enable on Woo KTC on settings page.`
+Install and activate the plugin. Enable on Woo KTC on settings page.
 
 ## Installation
 
@@ -18,8 +18,8 @@ Install and activate the plugin and you will be redirected to the settings page.
 ### Details
 
 1. Upload \`woo-keep-the-change.zip\` to the \`/wp-content/plugins/\` directory
-1. Activate the plugin through the <kbd>Plugins</kbd> menu in WordPress
-1. You can find the `Keep the change` fee in the cart
+2. Activate the plugin through the <kbd>Plugins</kbd> menu in WordPress
+3. You can find the `Keep the change` fee in the cart
 
 ## Screenshot
 

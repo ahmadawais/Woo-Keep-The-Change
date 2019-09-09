@@ -7,11 +7,11 @@ Tested up to: 5.0
 Stable tag: 1.6.0
 License: GPL v2.0
 
-Woo Keep The Change plugin helps online store owners keep the change :) i.e. Total $50 instead of $49.18.
+Woo Keep The Change plugin helps online store owners keep the change :) i.e. Total $50 instead of $49.28.
 
 == Description ==
 
-Woo Keep The Change plugin helps online store owners keep the change :) i.e. Total $50 instead of $49.18.
+Woo Keep The Change plugin helps online store owners keep the change :) i.e. Total $50 instead of $49.28.
 
 `Install and activate the plugin. Enable on Woo KTC on settings page.`
 
