@@ -5,7 +5,7 @@
 [![WP Downloads](https://img.shields.io/wordpress/plugin/dt/woo-keep-the-change.svg?style=flat-square)](https://wordpress.org/plugins/woo-keep-the-change/)
 [![WP Rating](https://img.shields.io/wordpress/plugin/r/fb-save-button-for-wp.svg?style=flat-square)](https://wordpress.org/support/view/plugin-reviews/woo-keep-the-change?filter=5)
 
-[Woo Keep The Change plugin](https://wordpress.org/plugins/woo-keep-the-change/) helps online store owners keep the change :) i.e. Total $50 instead of $49.28.
+[Woo Keep The Change plugin](https://wordpress.org/plugins/woo-keep-the-change/) helps online store owners keep the change :) i.e. Total $50 instead of $49.18.
 
 ![Woo — Keep The Change](https://i.imgur.com/m862Qr1.jpg)
 
