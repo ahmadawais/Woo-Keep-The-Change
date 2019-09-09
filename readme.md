@@ -39,7 +39,7 @@ License: GPL v2.0
 
 ### License
 
-Released under GNU GPL v2.0
+Released under GNU GPL v2.0.
 
 ---
 
