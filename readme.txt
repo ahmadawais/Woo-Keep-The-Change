@@ -1,17 +1,17 @@
-=== Woo Keep The Change ===
+=== eCommerce Keep The Change ===
 Contributors: mrahmadawais, maedahbatool, ahmadbilaldev, WPTie
 Donate link: http://AhmadAwais.com/contact/
 Tags: woo, woo keep the change, woo round off, round off, woocommerce, woocommerce add fee
 Requires at least: 4.0.0
 Tested up to: 5.3
-Stable tag: 1.12.0
+Stable tag: 2.0.0
 License: GPL v2.0
 
-Woo Keep The Change plugin helps online store owners keep the change :) i.e., Round the Total to $50 instead of $49.28.
+eCommerce Keep The Change plugin helps online store owners keep the change :) i.e., Round the Total to $50 instead of $49.28.
 
 == Description ==
 
-Woo Keep The Change plugin helps online store owners keep the change :) i.e., Round the Total to $50 instead of $49.28.
+eCommerce Keep The Change plugin helps online store owners keep the change :) i.e., Round the Total to $50 instead of $49.28.
 
 - Install and activate the plugin.
 - Enable on Woo KTC on the settings page.
