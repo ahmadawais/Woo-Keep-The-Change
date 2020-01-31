@@ -1,4 +1,4 @@
-name: Plugin assets/readme update
+name: '👌 IMPROVE: Assets or readme'
 on:
     push:
         branches:
