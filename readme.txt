@@ -7,7 +7,7 @@ Tested up to: 5.3
 Stable tag: 2.0.2
 License: GPL v2.0
 
-eCommerce Keep The Change plugin helps online store owners keep the change :) i.e., Round the Total to $50 instead of $49.28.
+eCommerce Keep The Change plugin helps online store owners keep the change :) i.e., Round the Total to $50 instead of $49.28. It's that easy.
 
 == Description ==
 
