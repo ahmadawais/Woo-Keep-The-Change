@@ -43,12 +43,4 @@ None.
 
 == Changelog ==
 
-= 1.0.2 =
-* Welcome page.
-* Setting to enable & disable.
-
-= 1.0.1 =
-* TGMPA Support.
-
-= 1.0 =
-* First Commit.
+Check out the latest changes at https://github.com/ahmadawais/Woo-Keep-The-Change/commits/master
