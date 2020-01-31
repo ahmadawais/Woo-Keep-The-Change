@@ -23,7 +23,7 @@ Install and activate the plugin, and you will be redirected to the settings page
 
 ## Screenshot
 
-![Screenshot](https://i.imgur.com/jxptgkb.png)
+![Screenshot](/.wordpress-org/screenshot-1.png)
 
 1. $58.20 cart has been rounded off to $59. There's a $0.80 keep the change fee :)
 
