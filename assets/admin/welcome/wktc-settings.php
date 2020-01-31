@@ -37,7 +37,7 @@ function wktc_initialize_theme_options() {
 	// Next, we will introduce the fields for toggling the visibility of content elements.
 	add_settings_field(
 		'is_woo_ktc',                      // ID used to identify the field throughout the theme
-		'Enable Woo Keep The Change',                           // The label to the left of the option interface element
+		'Enable eCommerce Keep The Change',                           // The label to the left of the option interface element
 		'wktc_toggle_header_callback',   // The name of the function responsible for rendering the option interface
 		'wktc_welcome',                          // The page on which this option will be displayed
 		'wktc_settings_section',         // The name of the section to which this field belongs

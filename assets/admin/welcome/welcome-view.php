@@ -71,10 +71,10 @@ $wooktc_enabled_img  = WKTC_URL . '/assets/admin/welcome/img/wooktc-enabled.png'
 <!-- HTML Started! -->
 <div class="wrap about-wrap">
 
-	<h1><?php printf( __( 'Woo Keep The Change' ), $the_version ); ?></h1>
+	<h1><?php printf( __( 'eCommerce Keep The Change' ), $the_version ); ?></h1>
 
 	<div class="about-text">
-		<?php printf( __( 'Woo Keep The Change plugin helps online store owners keep the change :) </br>i.e. Total $50 instead of $49.28.' ), $the_version ); ?>
+		<?php printf( __( 'eCommerce Keep The Change plugin helps online store owners keep the change :) </br>i.e. Total $50 instead of $49.28.' ), $the_version ); ?>
 	</div>
 
 	<div class="wp-badge welcome__logo"></div>

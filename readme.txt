@@ -1,7 +1,7 @@
 === eCommerce Keep The Change ===
 Contributors: mrahmadawais, maedahbatool, ahmadbilaldev, WPTie
 Donate link: http://AhmadAwais.com/contact/
-Tags: woo, woo keep the change, woo round off, round off, woocommerce, woocommerce add fee
+Tags: woo keep the change, woo, eCommerce keep the change, woo round off, round off, woocommerce, woocommerce add fee
 Requires at least: 4.0.0
 Tested up to: 5.3
 Stable tag: 2.0.0

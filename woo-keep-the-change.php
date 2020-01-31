@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Woo Keep The Change
+ * Plugin Name: eCommerce Keep The Change
  * Plugin URI: https://WPCouple.com/
  * Description: Keep the change fee added in the cart.
  * Author: TheDevCouple (Ahmad Awais & Maedah Batool)

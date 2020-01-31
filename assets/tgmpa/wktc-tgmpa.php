@@ -46,9 +46,9 @@ function wktc_register_required_plugins() {
 
 		// WooCommerce is required
 		array(
-			'name'      => 'WooCommerce',
-			'slug'      => 'woocommerce',
-			'required'  => true,
+			'name'     => 'WooCommerce',
+			'slug'     => 'woocommerce',
+			'required' => true,
 		),
 
 	);
@@ -74,20 +74,19 @@ function wktc_register_required_plugins() {
 		'is_automatic' => false,                   // Automatically activate plugins after installation or not.
 		'message'      => '',                      // Message to output right before the plugins table.
 
-
 		'strings'      => array(
 			'page_title'                      => __( 'Install Required Plugins', 'WKTC' ),
 			'menu_title'                      => __( 'Install Plugins', 'WKTC' ),
 			'installing'                      => __( 'Installing Plugin: %s', 'WKTC' ), // %s = plugin name.
 			'oops'                            => __( 'Something went wrong with the plugin API.', 'WKTC' ),
 			'notice_can_install_required'     => _n_noop(
-				'Woo Keep The Change plugin requires the following plugin: %1$s.',
-				'Woo Keep The Change plugin requires the following plugins: %1$s.',
+				'eCommerce Keep The Change plugin requires the following plugin: %1$s.',
+				'eCommerce Keep The Change plugin requires the following plugins: %1$s.',
 				'WKTC'
 			), // %1$s = plugin name(s).
 			'notice_can_install_recommended'  => _n_noop(
-				'Woo Keep The Change plugin recommends the following plugin: %1$s.',
-				'Woo Keep The Change plugin recommends the following plugins: %1$s.',
+				'eCommerce Keep The Change plugin recommends the following plugin: %1$s.',
+				'eCommerce Keep The Change plugin recommends the following plugins: %1$s.',
 				'WKTC'
 			), // %1$s = plugin name(s).
 			'notice_cannot_install'           => _n_noop(
@@ -130,7 +129,7 @@ function wktc_register_required_plugins() {
 				'Begin installing plugins',
 				'WKTC'
 			),
-			'update_link' 					  => _n_noop(
+			'update_link'                     => _n_noop(
 				'Begin updating plugin',
 				'Begin updating plugins',
 				'WKTC'
