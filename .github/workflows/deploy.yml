@@ -13,6 +13,6 @@ jobs:
               uses: 10up/actions-wordpress/dotorg-plugin-deploy@master
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-                  SVN_PASSWORD: ${{ secrets.SVN_PASSWORD }}
                   SVN_USERNAME: ${{ secrets.SVN_USERNAME }}
+                  SVN_PASSWORD: ${{ secrets.SVN_PASSWORD }}
                   SLUG: woo-keep-the-change
