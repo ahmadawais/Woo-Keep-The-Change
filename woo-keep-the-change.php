@@ -6,7 +6,7 @@
  * Author: TheDevCouple (Ahmad Awais & Maedah Batool)
  * Author URI: https://AhmadAwais.com/
  * Text Domain: WKTC
- * Version: 2.0.2
+ * Version: 2.1.0
  * License: GPL v2+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  *
